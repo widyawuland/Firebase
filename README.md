@@ -1,5 +1,5 @@
-# Firebase
-Tampilkan List dari Online Database (Firebase)
+# List dari Online Database
+Tampilkan List dari Online Database
 - **Nama**: Widya Wulandari  
 - **NIM**: 234311056  
 - **Kelas**: 4B  
